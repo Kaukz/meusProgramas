@@ -1,0 +1,34 @@
+
+body{background-color: #1D752B;}
+
+#folder{width: 100%}
+
+
+img{width:330px;
+	height: 320px}
+
+
+
+h1 {color: #F9FA82;
+	text-align: center;
+	font-size: 50px;
+	background-color:#094212;
+	height: 200px;
+	line-height: 100px;}
+
+.center{background-color:white;
+		text-align: center;
+		font-family: cursive;}
+
+.rec {color: #F9FA82;
+	text-align: center;
+	font-size: 40px;}
+
+p{color: #1D752B;
+font-size: 20px}
+
+td{width: 400px}
+
+footer{text-align: center;
+	background-color:#F9FA82;
+	height: 170PX}
